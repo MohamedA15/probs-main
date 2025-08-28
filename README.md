@@ -25,13 +25,12 @@ This project contains trained chess models implemented in Python. The models are
 
 ## Directory Structure
 
-robs-main/
-│
+probs-main/
 ├── trained_models/
-│ ├── mychess6x6/
-│ │ └── logs/
-│ └── mychess8x8/
-│ └── logs/
+│   ├── mychess6x6/
+│   │   └── logs/
+│   └── mychess8x8/
+│       └── logs/
 ├── python_impl_generic/
 ├── README.md
 └── other project files
