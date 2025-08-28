@@ -21,19 +21,6 @@ This project contains trained chess models implemented in Python. The models are
 - Training logs are saved in `trained_models/mychess8x8/logs/training_log.csv`.
 - Model files are stored in `trained_models/mychess8x8`.
 
----
-
-## Directory Structure
-
-probs-main/
-├── trained_models/
-│   ├── mychess6x6/
-│   │   └── logs/
-│   └── mychess8x8/
-│       └── logs/
-├── python_impl_generic/
-├── README.md
-└── other project files
 
 ---
 
