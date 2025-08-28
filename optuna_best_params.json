@@ -1,0 +1,6 @@
+{
+    "value_lr": 0.00012027254081745973,
+    "self_learning_lr": 0.00010927369258543617,
+    "max_depth": 78,
+    "num_q_s_a_calls": 17
+}

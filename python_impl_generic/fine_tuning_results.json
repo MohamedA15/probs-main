@@ -1,0 +1,812 @@
+[
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0003,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0003,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 50,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 100,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 10,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 20,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    },
+    {
+        "value_lr": 0.0001,
+        "self_learning_lr": 0.0001,
+        "max_depth": 150,
+        "num_q_s_a_calls": 50,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "win_rate": 0.0
+    }
+]
